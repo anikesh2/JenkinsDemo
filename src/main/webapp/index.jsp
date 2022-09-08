@@ -1,5 +1,5 @@
 <html>
     <body>
-        <h2>Hello Everyone! Jenkins will trigger every second </h2>
+        <h2>Welcome to my demo project </h2>
     </body>
 </html>
