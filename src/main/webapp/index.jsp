@@ -1,5 +1,5 @@
 <html>
     <body>
-        <h2>Hello, Jenkins will trigger after one min</h2>
+        <h2>Hello Everyone! Jenkins will trigger every second </h2>
     </body>
 </html>
